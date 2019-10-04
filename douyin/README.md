@@ -1,6 +1,6 @@
 # douyin
 
-A new Flutter project.
+使用Flutter编写的仿某音页面ui
 
 ## Getting Started
 
