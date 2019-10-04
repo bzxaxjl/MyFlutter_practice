@@ -2,6 +2,8 @@
 
 使用Flutter编写的仿某音页面ui
 
+![运行截图]（https://github.com/bzxaxjl/MyFlutter_practice/blob/master/douyin/img01.png）
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
